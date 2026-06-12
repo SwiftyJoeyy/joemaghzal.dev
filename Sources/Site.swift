@@ -16,7 +16,7 @@ struct IgniteWebsite {
 
 struct ExampleSite: Site {
     let name = "Joe Maghzal"
-    let url = URL(static: "https://buildexperience.dev")
+    let url = URL(static: "https://joemaghzal.dev")
     let builtInIconsEnabled = true
     
     let author = "Joe Maghzal"
